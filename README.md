@@ -37,7 +37,6 @@ The dataset used in this analysis includes the following features:
 - `data/`: Contains the raw and processed customer data files.
 - `notebooks/`: Jupyter notebooks with step-by-step analysis and modeling.
 - `scripts/`: Python scripts for data processing, feature engineering, and model training.
-- `reports/`: Generated reports and visualizations based on the analysis.
 - `README.md`: Project documentation.
 
 **Key Insights**
